@@ -1,0 +1,5 @@
+fastapi
+opencv
+tensorflow
+numpy
+openai
